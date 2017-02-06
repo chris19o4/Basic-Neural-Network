@@ -1,3 +1,4 @@
 # dlnd_project1
 
-This is the project number 1 of Udacity's Deep Learning Nanodegree Foundation
+This is the first project assignment of Udacity's Deep Learning Nanodegree Foundation.
+"Your first neural network"
