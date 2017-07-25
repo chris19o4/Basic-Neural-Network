@@ -1,6 +1,6 @@
 # dlnd_project1
 
-## This is the first project assignment of Udacity's Deep Learning Nanodegree Foundation.
+## This is the first project assignment of Udacity's Deep Learning Nanodegree.
 
 In this project a neural network is built from scratch to carry out a prediction problem on a real world dataset. 
 Building the network from the ground up (without any additional frameworks like Tensorflow oder Keras) is important for 
