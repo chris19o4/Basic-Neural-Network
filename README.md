@@ -1,4 +1,4 @@
-# dlnd_project1
+# A basic neural network
 
 ## This is the first project assignment of Udacity's Deep Learning Nanodegree.
 
