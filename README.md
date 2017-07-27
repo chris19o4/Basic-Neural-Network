@@ -1,4 +1,4 @@
-# Project 1: A basic neural network
+# A basic neural network
 
 In this project a neural network is built from scratch to carry out a prediction problem on a real world dataset. 
 Building the network from the ground up (without any additional frameworks like Tensorflow oder Keras) is important for 
